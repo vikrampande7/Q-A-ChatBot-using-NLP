@@ -4,4 +4,4 @@ Research paper referrence : End-to-End Memory Networks
 - Input Memory Representation
 - Output Memory representation
 - Final Prediction
-Created a full model with RNN and Multiple layers. 
+- Created a full model with RNN and Multiple layers. 
