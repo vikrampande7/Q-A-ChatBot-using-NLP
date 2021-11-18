@@ -1,4 +1,5 @@
 # Q&A Chat Bot based on "story" using NLP
+Implemented from NLP course by UDEMY
 Implementation of a chat bot that can answer the questions based on the "story" given to the chat bot using NLP and Keras. 
 Research paper referrence : End-to-End Memory Networks
 - Input Memory Representation
